@@ -1,2 +1,10 @@
-# bilimalx_chrome_extension
-Расширение для браузера Chrome
+# Расширение BilimalX для браузера Chrome ⚙️
+## Расширение добавляет "+" в электроном журнале
+### Установка:
+1. Скачайте архив с расширением **[BilimalX Chrome Extension](https://github.com/nxreehn/bilimalx_chrome_extension/blob/main/BilimalX.rar)**
+> Чтобы скачать нажмите на **[BilimalX Chrome Extension](https://github.com/nxreehn/bilimalx_chrome_extension/blob/main/BilimalX.rar)** и нажмите кнопку **Download**
+2. Откройте скачанный архив и извлеките папку **BilimalX** на **Рабочий Стол**
+3. Зайдите в браузер **Google Chrome**
+4. Перейдите на страницу с расширениями
+> Ввведите **chrome://extensions/** в строку поиска или нажмите на **Три Точки - Дополнительные инстурменты - Расширения**
+5. Переключите тумблер возле надписи **Режим разработчика**. У вас появятся 3 дополнительные кнопки: **Загрузить распакованное расширение, Упаковать расширение, Обновить**
